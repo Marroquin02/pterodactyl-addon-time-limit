@@ -20,7 +20,7 @@ Sigue estos pasos para instalar el addon en tu panel de Pterodactyl:
 Clona el repositorio o descarga el código como un archivo `.zip` en tu instalación de Pterodactyl:
 
 ```bash
-git clone https://github.com/tu-usuario/pterodactyl-addon-time-limit.git
+git clone https://github.com/Marroquin02/pterodactyl-addon-time-limit
 ```
 
 ### 2. Copiar los Archivos Modificados
